@@ -1,0 +1,30 @@
+{
+  "words": [
+    {
+      "id": 81346,
+      "word": "decreasing",
+      "definitions": ["Present participle of decrease."]
+    },
+    {
+      "id": 743344,
+      "word": "Tetris",
+      "definitions": [
+        "A puzzle video game in which falling tetrominoes must be manipulated to form complete lines, which are then cleared from the grid.",
+        "The act of clearing four lines at once (the maximum possible) in Tetris."
+      ]
+    },
+    {
+      "id": 91001,
+      "word": "migratory",
+      "definitions": [
+        "Characterized by migration; undergoing periodic migration:  migratory birds. ",
+        "Of or relating to a migration."
+      ]
+    },
+    {
+      "id": 232618,
+      "word": "whomever",
+      "definitions": ["The objective case of whoever.  See Usage Note at who."]
+    }
+  ]
+}
